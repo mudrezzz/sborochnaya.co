@@ -1,0 +1,76 @@
+﻿# Text content for index.html
+# Format: key=value
+
+site.title=Сборочная — AI-пересборка B2B-продуктов
+brand.home_aria=Сборочная — на главную
+brand.word=Сборочная<i>.</i>
+
+nav.stations=<small>01</small> Линейка
+nav.approach=<small>02</small> Подход
+nav.contact=<small>03</small> Контакт
+header.cta=Запросить диагностику <span class="arr">→</span>
+
+hero.tag=СБОРОЧНАЯ · AI-ПЕРЕСБОРКА B2B
+hero.meta=53.9°N 27.5°E · v.2026
+hero.title=AI-пересборка<br>сложных <span class="signal">B2B-продуктов</span>
+hero.lead=Мы&nbsp;работаем с&nbsp;технологическими командами, у&nbsp;которых сильный продукт, но&nbsp;рост тормозится из-за сложной упаковки, длинных продаж или&nbsp;тяжёлого внедрения. Находим, где теряется движение, и&nbsp; помогаем пересобрать продукт, продажи и&nbsp;внедрение с передовыми AI-инструментами.
+hero.cta_primary=Запустить диагностику <span class="arr">→</span>
+hero.cta_secondary=Посмотреть линейку
+hero.fact_1=<b>4</b> станции сборки
+hero.fact_2=<b>2 нед.</b> базовая диагностика
+hero.fact_3=<b>8–12 нед.</b> пилот
+hero.fact_4=<b>1</b> точка ответственности
+
+stations.rule=— Линейка · 04 станции
+stations.title=Четыре зоны,<br>где продукт<br><span class="signal">теряет движение</span>.
+stations.lead=Каждая станция — это конкретный артефакт и&nbsp;конкретная метрика. Идём по&nbsp;ним последовательно или&nbsp;входим в&nbsp;одну точечно.
+
+station1.corner=01 / 04
+station1.id=01
+station1.title=Диагностика
+station1.text=За&nbsp;две недели находим, где именно теряется движение между продуктом и&nbsp;сделкой. Карта узких мест и&nbsp;AI‑возможностей с&nbsp;бизнес-смыслом.
+station1.result=<b>Результат:</b> карта точек трения, план пилота, метрики
+
+station2.corner=02 / 04
+station2.id=02
+station2.title=Рынок
+station2.text=Собираем рыночный фокус и&nbsp;язык ценности: приоритетный сегмент, ICP, оффер, sales narrative и&nbsp;account map.
+station2.result=<b>Результат:</b> сегмент, оффер, pitch, материалы для&nbsp;выхода
+
+station3.corner=03 / 04
+station3.id=03
+station3.title=Продажи
+station3.text=Длинные продажи становятся управляемым контуром: стадии, сигналы, ритуалы, метрики, обновлённый playbook и&nbsp;CRM‑логика.
+station3.result=<b>Результат:</b> карта потерь, next-best actions, цикл улучшения
+
+station4.corner=04 / 04
+station4.id=04
+station4.title=Внедрение
+station4.text=Сокращаем путь клиента от&nbsp;сделки до&nbsp;первой ценности. AI‑assisted onboarding, guided setup, self-implementation logic.
+station4.result=<b>Результат:</b> AI-сценарии, метрики adoption, time-to-value
+
+manifest.rule=— Подход · чем мы не являемся
+manifest.1.neg=— Не маркетинговое агентство
+manifest.1.pos=Не&nbsp;ограничиваемся упаковкой, контентом и&nbsp;каналами. Работаем с&nbsp;<b>продуктом, рынком и&nbsp;внедрением</b>.
+manifest.2.neg=— Не AI-интегратор
+manifest.2.pos=Не&nbsp;начинаем с&nbsp;выбора модели или&nbsp;чатбота. Сначала ищем, <b>где AI снижает трение</b>, потом строим.
+manifest.3.neg=— Не research-консалтинг
+manifest.3.pos=Не&nbsp;заканчиваем работу отчётом. Оставляем <b>рабочие артефакты</b>: playbook, оффер, CRM-сигналы, onboarding.
+manifest.4.neg=— Не sales-аудит
+manifest.4.pos=Смотрим не&nbsp;только на&nbsp;воронку, а&nbsp;на&nbsp;<b>продукт, рынок, коммуникации и&nbsp;внедрение</b> как одну систему.
+
+cta.rule=— Запрос на диагностику
+cta.title=Две&nbsp;недели.<br>Карта точек трения.<br><span class="signal">Без обязательств дальше.</span>
+cta.lead=Расскажите, где у&nbsp;вас тормозится движение — вернёмся со&nbsp;структурой работы и&nbsp;примером похожего кейса в&nbsp;течение двух рабочих дней.
+cta.cta=Написать на&nbsp;hello@sborochnaya.ru <span class="arr">→</span>
+cta.side.email_label=— Почта
+cta.side.email=hello@sborochnaya.ru
+cta.side.telegram_label=— Telegram
+cta.side.telegram=@sborochnaya
+cta.side.calendar_label=— Календарь
+cta.side.calendar=Звонок · 30&nbsp;мин
+cta.side.load_label=— Загрузка
+cta.side.load=Сейчас 4&nbsp;активных проекта · следующее окно — 2&nbsp;нед.
+
+footer.left=© 2026 Сборочная · Практика AI-пересборки B2B-продуктов
+footer.right=v.2026.04 · Минск / Москва
