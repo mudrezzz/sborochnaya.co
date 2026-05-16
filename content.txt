@@ -65,6 +65,7 @@ cta.lead=Расскажите, где у&nbsp;вас тормозится дви
 cta.cta=Написать на&nbsp;to@sborochnaya.co <span class="arr">→</span>
 cta.side.email_label=— Почта
 cta.side.email=to@sborochnaya.co
+cta.email_url=mailto:to@sborochnaya.co
 cta.side.telegram_label=— Telegram
 cta.side.telegram=@ai-sborochnaya
 cta.side.telegram_url=https://t.me/m/HJysymlkNGYy

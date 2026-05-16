@@ -216,9 +216,10 @@ experience.a.01=Обсудить ваш контур <span class="arr">→</span
 contact.span.01=— Запрос на диагностику
 contact.h2.01=\n        Две недели.<br>\n        Карта прикладных AI‑сценариев.<br>\n        <span class="signal">Без обязательств дальше.</span>\n
 contact.p.01=\n        Расскажите, какую задачу хотите разобрать первой — вернёмся со структурой работы,\n        примером похожего кейса и границами диагностики в течение двух рабочих дней.\n
-contact.a.01=Написать на to@sborochnaya.ru <span class="arr">→</span>
+contact.a.01=Написать на to@sborochnaya.co <span class="arr">→</span>
 contact.span.02=— Почта
 contact.a.02=to@sborochnaya.co
+contact.email_url=mailto:to@sborochnaya.co
 contact.span.03=— Telegram
 contact.a.03=@ai-sborochnaya
 contact.telegram_url=https://t.me/m/HJysymlkNGYy
